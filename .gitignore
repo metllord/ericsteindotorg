@@ -1,0 +1,6 @@
+ericsteindotorg.sublime-project
+ericsteindotorg.sublime-workspace
+*.py[oc]
+settings.py
+fabfile.py
+tmp
