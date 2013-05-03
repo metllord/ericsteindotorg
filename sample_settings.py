@@ -8,6 +8,7 @@ class Development(object):
     DEBUG = True
     ADMIN = ADMIN
     BASEDIR = BASEDIR
+    SECRET_KEY = ''
 
     # local database login information
     configuration = {
@@ -24,6 +25,7 @@ class Production(object):
     DEBUG = False
     ADMIN = ADMIN
     BASEDIR = BASEDIR
+    SECRET_KEY = ''
 
     # local database login information
     configuration = {
