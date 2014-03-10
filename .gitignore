@@ -4,3 +4,4 @@ ericsteindotorg.sublime-workspace
 settings.py
 fabfile.py
 tmp
+.vagrant

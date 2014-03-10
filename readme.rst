@@ -5,6 +5,13 @@ The Personal Website of Eric Stein
 This is the structure behind my website. It's written in Python using Flask,
 HTML5, LESS, and jQuery.
 
+------------------------
+Development Requirements
+------------------------
+
+- Chef
+- Vagrant (for development)
+
 -------------------
 Python Requirements
 -------------------

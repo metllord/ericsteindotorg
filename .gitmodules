@@ -1,0 +1,6 @@
+[submodule "recipies/cookbooks/apache2"]
+	path = recipies/cookbooks/apache2
+	url = https://github.com/opscode-cookbooks/apache2
+[submodule "recipies/cookbooks/postgresql"]
+	path = recipies/cookbooks/postgresql
+	url = https://github.com/hw-cookbooks/postgresql.git
